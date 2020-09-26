@@ -7,7 +7,7 @@ In this notebook we analyze a dataset call [House Sales in King County, USA]( ht
 One of the objectives of this notebook is to show step-by-step how to analyze and visualize the dataset to predict future home prices. Moreover, we are going to explain most of the concepts used so that you understand why we are using them. In base of features like sqft_living, bathrooms, bedrooms, view, and others, we are going to build a deep learning model that can predict future price houses.
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
-To watch the Kernel directly from Kaggle click [here.]( https://www.kaggle.com/tomasmantero/predicting-house-prices-keras-ann)
+To see the Kernel directly from Kaggle click [here.]( https://www.kaggle.com/tomasmantero/predicting-house-prices-keras-ann)
 
 ***Feature Columns***
 
